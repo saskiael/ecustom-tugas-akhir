@@ -7,6 +7,6 @@ pandas
 joblib
 scikit-learn
 pillow
-pickle
+pickle5
 os-sys
 python-time
